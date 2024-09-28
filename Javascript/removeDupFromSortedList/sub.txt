@@ -1,0 +1,1 @@
+too lazy this time, so here is a link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
